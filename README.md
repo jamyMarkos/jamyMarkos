@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mintesnot</h1>
 <h3 align="center">I'm a Web Developer, A2SVian</h3>
-<img align="left" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🌱 I’m currently learning **Vue js + tailwindcss**
 
