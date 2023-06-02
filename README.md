@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mintesnot</h1>
 <ul style="list-style: none">
-  <li>👨‍💻 I'm a Web Developer(front-end to be specific), A2SVian(Problem Solving)</li>
+  <li>👨‍💻 I'm a Web Developer + A2SVian(Problem Solving)</li>
   <li>🌱 I’m currently learning backend development: express & mongoose</li>
   <li>⭐ Interested in ML, AI, Blockchain</li>
   <li>📫 How to reach me **jamymarcuss47@gmail.com**</li>
