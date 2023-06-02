@@ -1,5 +1,5 @@
+<h1 align="center">Hi 👋, I'm Mintesnot</h1>
 <ul style="list-style: none">
-  <li>-> Hi 👋, I'm Mintesnot</li>
   <li>👨‍💻 I'm a Web Developer(front-end to be specific), A2SVian(Problem Solving)</li>
   <li>🌱 I’m currently learning backend development: express & mongoose</li>
   <li>⭐ Interested in ML, AI, Blockchain</li>
@@ -7,7 +7,7 @@
 </ul>
 
 
-<h1 align="center">Hi 👋, I'm Mintesnot</h1>
+
 <h3 align="center">I'm a Web Developer, A2SVian</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
