@@ -1,9 +1,9 @@
 <ul style="list-style: none">
   <li>- Hi 👋, I'm Mintesnot</li>
-  <li>-👨‍💻 I'm a Web Developer(front-end to be specific), A2SVian(Problem Solving)</li>
-  <li>-🌱 I’m currently learning backend development: express & mongoose</li>
-  <li>-⭐ Interested in ML, AI, Blockchain</li>
-  <li>-📫 How to reach me **jamymarcuss47@gmail.com**</li>
+  <li>👨‍💻 I'm a Web Developer(front-end to be specific), A2SVian(Problem Solving)</li>
+  <li>🌱 I’m currently learning backend development: express & mongoose</li>
+  <li>⭐ Interested in ML, AI, Blockchain</li>
+  <li>📫 How to reach me **jamymarcuss47@gmail.com**</li>
 </ul>
 
 
