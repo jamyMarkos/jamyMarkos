@@ -3,7 +3,7 @@
   <li>👨‍💻 I'm a Web Developer + A2SVian(Problem Solving)</li>
   <li>🌱 I’m currently learning backend development: express & mongoose</li>
   <li>⭐ Interested in ML, AI, Blockchain</li>
-  <li>📫 How to reach me jamymarcuss47@gmail.com</li>
+  <li>📫 How to reach me <a href="#">**jamymarcuss47@gmail.com**</a></li>
 </ul>
 <!-- <img align="right" alt="coding" width="400" style="border-radius: 6px" src="https://www.lambdatest.com/resources/images/news24.gif"> -->
 
